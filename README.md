@@ -1,5 +1,5 @@
 # Guillermo Iacovone Pereira
-Olá! Eu sou o [Guillermo](https://github.com/GuillermoIacovonePereira) e este é o meu perfil no GitHub.
+Olá! Eu sou o Guillermo e este é o meu perfil no GitHub.
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guillermo-iacovone-pereira-2bb4a9204/)
 ## Linguagens
